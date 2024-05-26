@@ -1,0 +1,1 @@
+# JSadvance-BrowserStorage-LocalStorage2
